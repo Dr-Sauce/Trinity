@@ -2,7 +2,7 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. 
 
-Are you getting it? These are not three separate things.
+Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
 
 
