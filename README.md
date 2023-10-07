@@ -38,9 +38,11 @@ https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c440
 
 **[AppleDB](https://appledb.dev/) Team -** Thanks for answering my API questions.
 
-**[u/jaycos](https://www.reddit.com/user/jaycos) -** Thanks for helping providing a way to reduce software release info.
+**[u/jaycos](https://www.reddit.com/user/jaycos) -** Thanks for providing a way to reduce release notifications.
 
 **[u/mvan231](https://www.reddit.com/user/mvan231) -** Thanks for helping improve notification settings.
+
+[**@PARKasd**](https://github.com/PARKasd) - Thanks for providing a way to download delayed OTA profiles.
 
 
 # Sources:
