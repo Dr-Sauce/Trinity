@@ -9,7 +9,6 @@ Designed to work on iOS 15. (Does **not** support iOS 16+)
 https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
 
 **Music:** [Deus Ex Machina - Dancing About Architecture](https://soundcloud.com/dancingaboutarchitecture-music/deus-ex-machina)
-Designed to work on iOS 15. (Does **not** support iOS 16+)
 
 # Features:
 - Receive Apple products software updates.
