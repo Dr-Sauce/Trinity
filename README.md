@@ -1,8 +1,6 @@
 # Trinity
 
-iOS Release Notifications, Signing Status, delayed OTA. 
-
-Are you getting it? These are not three separate things. We are calling it **Trinity**.
+iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
 Designed to work on iOS 15. (Does **not** support iOS 16+)
 
