@@ -2,7 +2,7 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
-Designed to work on iOS 15. (Does **not** support iOS 16+)
+Designed to work on iOS 15. (But also works on other versions)
 
 https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
 
