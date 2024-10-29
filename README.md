@@ -42,6 +42,8 @@ https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c440
 
 [**@PARKasd**](https://github.com/PARKasd) - Thanks for providing a way to download delayed OTA profiles.
 
+[**u/gluebyte**](https://reddit.com/user/gluebyte) - Thanks for fixing Trinity on iOS 16+
+
 
 # Sources:
 
