@@ -2,21 +2,21 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
-Designed to work on iOS 15. (But also works on other versions)
-
-https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
-
-**Music:** [Deus Ex Machina - Dancing About Architecture](https://soundcloud.com/dancingaboutarchitecture-music/deus-ex-machina)
+<img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/2df5c1fa-9114-4c16-a506-55d8368b184b" />
 
 # Features:
 - Receive Apple products software updates.
 - View iOS signing status.
 - View iOS delayed OTA schedule.
 
-# How to install:
-1. Go to [**releases**](https://github.com/Dr-Sauce/trinity/releases/latest) and download the latest version.
+# Install:
+1. Go to [**Releases**](https://github.com/Dr-Sauce/Coexist/releases/latest).
+3. Press iCloud link → **Add Shortcut**.
 
-2. Open Shortcut.
+# Teaser:
+https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
+
+**Music:** [Deus Ex Machina - Dancing About Architecture](https://soundcloud.com/dancingaboutarchitecture-music/deus-ex-machina)
 
 # Receive software updates:
 
