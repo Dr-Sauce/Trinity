@@ -2,6 +2,9 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
+**Recommended:** ~iOS 15.
+**Supported:** ~iOS 18.1.1.
+
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/2df5c1fa-9114-4c16-a506-55d8368b184b" />
 
 # Features:
