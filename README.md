@@ -4,14 +4,9 @@ iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? Thes
 
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/2df5c1fa-9114-4c16-a506-55d8368b184b" />
 
-# Features:
-- Receive Apple products software updates.
-- View iOS signing status.
-- View iOS delayed OTA schedule.
-
 # Install:
-1. Get [a-Shell mini](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
-2. Go to [**Releases**](https://github.com/Dr-Sauce/Coexist/releases/latest) and open iCloud link. Once Shortcuts app opens press **Add Shortcut**.
+1. Get [`a-Shell mini`](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
+2. Download Derpy from [Releases](https://github.com/Dr-Sauce/Coexist/releases/latest).
 
 # Teaser:
 https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
