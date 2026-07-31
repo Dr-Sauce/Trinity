@@ -51,5 +51,7 @@ https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c440
 
 [delayed OTA](https://dhinakg.github.io/delayed-otas.html) ([@dhinakg](https://github.com/dhinakg))
 
+[MobileGestalt Device Info](https://routinehub.co/shortcut/4920) ([@atnbueno](https://github.com/atnbueno))
+
 [Shortcut Updater](https://github.com/Dr-Sauce/ShortcutUpdater) ([Dr-Sauce](https://github.com/Dr-Sauce))
 
