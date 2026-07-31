@@ -2,8 +2,6 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
-Requires [a-Shell mini](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
-
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/2df5c1fa-9114-4c16-a506-55d8368b184b" />
 
 # Features:
@@ -12,8 +10,8 @@ Requires [a-Shell mini](https://apps.apple.com/us/app/a-shell-mini/id1543537943)
 - View iOS delayed OTA schedule.
 
 # Install:
-1. Go to [**Releases**](https://github.com/Dr-Sauce/Coexist/releases/latest).
-3. Press iCloud link → **Add Shortcut**.
+1. Get [a-Shell mini](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
+2. Go to [**Releases**](https://github.com/Dr-Sauce/Coexist/releases/latest) and open iCloud link. Once Shortcuts app opens press **Add Shortcut**.
 
 # Teaser:
 https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
