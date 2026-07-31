@@ -34,15 +34,15 @@ https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c440
 
 # Credits:
 
-**[AppleDB](https://appledb.dev/) Team -** Thanks for answering my API questions.
+**[AppleDB](https://appledb.dev/) Team -** Helped manage API usage.
 
-**[u/jaycos](https://www.reddit.com/user/jaycos) -** Thanks for providing a way to reduce release notifications.
+**[u/jaycos](https://www.reddit.com/user/jaycos) -** Provided an efficient way to only push notifications for the latest version in each major OS.
 
-**[u/mvan231](https://www.reddit.com/user/mvan231) -** Thanks for helping improve notification settings.
+**[u/mvan231](https://www.reddit.com/user/mvan231) -** Improved notification settings.
 
-[**@PARKasd**](https://github.com/PARKasd) - Thanks for providing a way to download delayed OTA profiles.
+[**@PARKasd**](https://github.com/PARKasd) - Provided a way to download delayed OTA profiles.
 
-[**u/gluebyte**](https://reddit.com/user/gluebyte) - Thanks for fixing Trinity on iOS 16+
+[**u/gluebyte**](https://reddit.com/user/gluebyte) - Fixed Trinity on iOS 16+.
 
 
 # Sources:
