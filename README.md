@@ -2,7 +2,7 @@
 
 iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? These are not three separate things. We are calling it **Trinity**.
 
-**Supports devices on ~iOS 18.1.1.**
+Requires [a-Shell mini](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
 
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/2df5c1fa-9114-4c16-a506-55d8368b184b" />
 
