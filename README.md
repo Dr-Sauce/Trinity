@@ -6,7 +6,7 @@ iOS Release Notifications, Signing Status, delayed OTA. Are you getting it? Thes
 
 # Install:
 1. Get [`a-Shell mini`](https://apps.apple.com/us/app/a-shell-mini/id1543537943).
-2. Download Derpy from [Releases](https://github.com/Dr-Sauce/Coexist/releases/latest).
+2. Download Derpy from [Releases](https://github.com/Dr-Sauce/Trinity/releases/latest).
 
 # Teaser:
 https://github.com/Dr-Sauce/Trinity/assets/82555878/74a6958e-5b75-4ea0-88bd-c44040181ba8
